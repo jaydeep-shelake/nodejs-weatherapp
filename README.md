@@ -13,7 +13,8 @@
  
 ## 🚀 Tech and Tools Used
 
-* HTML,CSS,Javascript
+* HTML,CSS and javascript
+* Node.js and Express
 * VS code
 * Openweatherapi
 
