@@ -19,4 +19,5 @@
 
 ## 📸 Screenshots
 
-<img src='127.0.0.1_5500_index.html (1).png' width='600px' height='500px'>
+<img src='https://github.com/jaydeep-shelake/Weather.js/blob/master/127.0.0.1_5500_index.html%20(1).png' width='600px' height='500px'>
+link to app:https://weatherjs.herokuapp.com/
