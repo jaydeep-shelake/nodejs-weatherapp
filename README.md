@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100px" src="barometer.png"/>
+  <img width="100px" src="https://github.com/jaydeep-shelake/Weather.js/blob/master/barometer.png"/>
 </div>
 <br>
 
